@@ -1,0 +1,69 @@
+{
+  "category": "ai-fresher",
+  "title": "AI Fresher Resume Examples (2025)",
+  "roles": [
+    {
+      "slug": "ai-engineer",
+      "name": "GenAI / AI Engineer",
+      "image": "images/ai-engineer-fresher-resume.png",
+      "url": "https://pro.kudoswall.com/cv/genai-engineer-fresher-resume",
+      "tags": ["genai","llm","rag","python","mlops-basics"]
+    },
+    {
+      "slug": "prompt-engineer",
+      "name": "Prompt Engineer",
+      "image": "images/prompt-engineer-fresher-resume.png",
+      "url": "https://pro.kudoswall.com/cv/prompt-engineer-fresher-resume",
+      "tags": ["prompting","chatgpt","guardrails","evaluation"]
+    },
+    {
+      "slug": "data-analyst-ai",
+      "name": "Data Analyst (AI)",
+      "image": "images/data-analyst-fresher-ai-resume.png",
+      "url": "https://pro.kudoswall.com/cv/data-analyst-fresher-ai-resume",
+      "tags": ["sql","pandas","etl","viz","genai-assist"]
+    },
+    {
+      "slug": "mlops-fresher",
+      "name": "MLOps Engineer",
+      "image": "images/mlops-fresher-resume.png",
+      "url": "https://pro.kudoswall.com/cv/mlops-fresher-resume",
+      "tags": ["docker","ci-cd","model-serving","monitoring"]
+    },
+    {
+      "slug": "ai-qa-tester",
+      "name": "AI QA Tester",
+      "image": "images/ai-qa-tester-resume.png",
+      "url": "https://pro.kudoswall.com/cv/ai-qa-tester-resume",
+      "tags": ["test-cases","automation","evals","hallucination-checks"]
+    },
+    {
+      "slug": "ai-product-analyst",
+      "name": "AI Product Analyst",
+      "image": "images/ai-product-analyst-fresher-resume.png",
+      "url": "https://pro.kudoswall.com/cv/ai-product-analyst-fresher-resume",
+      "tags": ["product","metrics","user-studies","prompt-flows"]
+    },
+    {
+      "slug": "chatgpt-specialist",
+      "name": "ChatGPT Specialist",
+      "image": "images/chatgpt-specialist-fresher-resume.png",
+      "url": "https://pro.kudoswall.com/cv/chatgpt-specialist-fresher-resume",
+      "tags": ["workflows","automation","agents"]
+    },
+    {
+      "slug": "data-scientist-ai",
+      "name": "Data Scientist (AI)",
+      "image": "images/data-scientist-fresher-resume.png",
+      "url": "https://pro.kudoswall.com/cv/data-scientist-fresher-resume",
+      "tags": ["ml","feature-eng","evaluation"]
+    },
+    {
+      "slug": "cybersecurity-ai",
+      "name": "Cybersecurity with AI",
+      "image": "images/cybersecurity-ai-fresher-resume.png",
+      "url": "https://pro.kudoswall.com/cv/cybersecurity-ai-fresher-resume",
+      "tags": ["threat-intel","llm-defense","policy"]
+    }
+  ]
+}

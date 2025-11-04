@@ -46,4 +46,29 @@ Each new role should include:
 4. Skills, projects, and metrics that represent **realistic, ethical, verifiable experience**
 
 ### Required sections inside each resume example file:
+title: "<ROLE NAME> Resume Example"
+slug: "<slug>"
+category: "<category>"
+image: "../images/<file-name>.png"
+source_url: "<live page URL if applicable>"
+builder_url: "https://pro.kudoswall.com/ai-resume-builder
+"
+ats_url: "https://pro.kudoswall.com/resume-analyzer
+"
+<ROLE NAME> Resume Example
+Key Skills
+
+Bullet list of skills aligned with real job roles
+
+Example Project Highlights
+
+Realistic academic or project experience with measurable impact
+
+Why This Resume Works
+
+ATS-friendly layout
+
+Real skills and bullets
+
+Clear impact and quantification
 

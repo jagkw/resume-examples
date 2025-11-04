@@ -1,0 +1,127 @@
+# Resume Example Style Guide
+
+This guide ensures consistency, ATS-friendliness, and high educational value across all resume examples in this repository.
+
+Our mission:  
+**Help job seekers build modern, ATS-optimized, future-skills resumes — especially in AI-augmented careers.**
+
+---
+
+## 🎯 Purpose of This Style Guide
+All resume examples in this repo must:
+
+- Be **ATS-compatible**
+- Show **realistic and ethical experience**
+- Favor **skills + measurable accomplishments**
+- Teach job seekers **what good looks like**
+- Reflect **current & emerging industry demands** (AI, automation, cloud, security, data, product, etc.)
+- Use **clear, professional language**
+- Follow a **consistent structure**
+
+This is not a random template repo — it's a **trusted learning resource**.
+
+---
+
+## ✅ Resume Format Requirements
+
+| Category | Rules |
+|---|---|
+Layout | Single-column only (no designs that break ATS)  
+Font Style | Clean & readable (e.g., Arial, Calibri, Inter, Roboto, SF Pro)  
+Font Size | 10–12pt body, 14–18pt headers  
+Sections | Must include key resume sections (see below)  
+Icons, Tables, Graphics | ❌ Avoid — they break ATS  
+Length | Prefer 1 page, max 2 pages  
+File Format (examples) | Provided as PNG previews + Markdown content  
+
+### Required Sections in Every Example
+
+- **Name + Role Title**
+- **Contact / LinkedIn / Portfolio (no personal data in repo)**
+- **Professional Summary**
+- **Skills (grouped logically)**
+- **Projects / Internship / Coursework**
+- **Work Experience (if exists)**
+- **Education**
+- **Certifications (optional but encouraged)**
+- **Tools & Technologies**
+
+---
+
+## 🧠 Writing Style
+
+| Guideline | Example |
+|---|---|
+Use action verbs | Designed, built, automated, trained, deployed  
+Quantify when possible | Improved accuracy by 12%, automated 30+ hours/week  
+Prioritize clarity | ✅ Built an LLM chatbot for FAQs  
+No fluff/buzz | ❌ Passionate, hardworking, eager to learn  
+Use real tools | Python, SQL, Git, Docker, FastAPI, Jupyter, LangChain  
+Avoid vague claims | ❌ Expert in AI — ✅ Built RAG chatbot w/ embeddings  
+
+### Tone & Language
+
+- Professional, but student-friendly
+- No hype language (“rockstar”, “ninja”)
+- Focus on **outcomes & capability**
+- Avoid jargon unless necessary
+
+---
+
+## 🎓 Projects Section Rules
+
+Every resume example must include **2–4 projects** with:
+
+- Project name
+- Short problem statement
+- Solution summary
+- Tech stack
+- *Measurable outcomes* (even if simulated but realistic)
+
+Example:
+
+> **RAG-based College Support Assistant**  
+> Built a Q&A bot using LangChain + FAISS for college FAQs.  
+> Improved response accuracy to 92% on test set; reduced staff load.  
+> *Tech*: Python, OpenAI API, LangChain, Streamlit, FAISS
+
+---
+
+## 🛡️ Ethics
+
+### ✅ Good
+- Realistic student / fresher projects
+- Ethical AI use cases
+- Honest capabilities
+- Skills aligned to industry demand
+
+### ❌ Not allowed
+- Fake company experience
+- Plagiarized content
+- Competitor templates
+- Personal resumes containing private info
+
+---
+
+## 🔧 Technical Skills That Should Appear Frequently
+
+Since this repo focuses on **AI-era roles**, examples often include:
+
+| Category | Skills / Tools |
+|---|---|
+AI & ML | Python, NumPy, Pandas, scikit-learn, OpenAI, LangChain  
+Data | SQL, Excel, Tableau/Power BI  
+Cloud | AWS / GCP / Azure basics  
+Dev | Git, GitHub, VS Code  
+MLOps | Docker, CI/CD basics, model monitoring basics  
+Security | Basic cyber hygiene, IAM  
+Product & QA | User research, test plans, prompt testing  
+
+---
+
+## 📐 Bullets Format Example
+
+Every bullet should follow:
+
+**Action + Tool + Result**
+

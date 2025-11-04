@@ -1,0 +1,17 @@
+{
+  "name": "KudosWall Resume Examples",
+  "version": "2025.11.04",
+  "homepage": "https://pro.kudoswall.com/resume-examples/",
+  "builder_url": "https://pro.kudoswall.com/ai-resume-builder",
+  "ats_url": "https://pro.kudoswall.com/resume-analyzer",
+  "collections": [
+    {
+      "slug": "ai-fresher",
+      "title": "AI Fresher Resume Examples (2025)",
+      "repo_path": "ai-fresher",
+      "manifest": "ai-fresher/ai-fresher.json",
+      "count": 9,
+      "tags": ["AI resumes", "freshers", "ATS", "GenAI", "LLM", "RAG"]
+    }
+  ]
+}

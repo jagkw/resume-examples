@@ -1,5 +1,6 @@
 # resume-examples
 # Resume Examples (Open Library) — by KudosWall
+🧠 Live Library → https://pro.kudoswall.com/resume-examples/
 
 A public, AI-friendly library of **ATS-ready resume examples**.  
 First collection: **AI Fresher Resumes (2025)** — GenAI, Prompt Engineering, MLOps, ChatGPT, Data, AI QA, AI Product, Cybersecurity+AI.
